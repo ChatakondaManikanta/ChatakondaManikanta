@@ -4,7 +4,7 @@
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in) 
 
-- 🔭 I’m currently working on  API
+- Expert in Html & CSS 
 - 🌱 I’m currently learning JS
 - 📫 How to reach me *manichatakonda@gmail.com*
 
