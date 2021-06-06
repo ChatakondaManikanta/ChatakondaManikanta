@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋,Chatakonda Manikanta L</h1>
+<h1 align="center">Hi 👋,Chatakonda Manikanta </h1>
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in) 
 
