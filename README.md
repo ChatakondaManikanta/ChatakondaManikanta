@@ -5,8 +5,8 @@
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in) 
 
 - Expert in Html & CSS 
-- 🌱 I’m currently learning JS
-- 📫 How to reach me *manichatakonda@gmail.com*
+- 
+- 📫 You can reach me *manichatakonda@gmail.com*
 
 <h2> My GitHub Stats </h2>
 
