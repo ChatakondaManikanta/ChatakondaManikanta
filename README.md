@@ -6,7 +6,7 @@
 
 - Expert in Html & CSS 
 - 
-- 📫 You can reach me *manichatakonda@gmail.com*
+- 📫 You can reach me @*manichatakonda@gmail.com*
 
 <h2> My GitHub Stats </h2>
 
