@@ -6,6 +6,7 @@
 
 - Expert in Html & CSS.
 - can be perfect on JS in some time.
+- Will go for front day.
 - You can reach me  @*manichatakonda@gmail.com*.
 
 <h2> My GitHub Stats </h2>
