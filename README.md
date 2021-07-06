@@ -5,7 +5,7 @@
 
 - Expert in Html & CSS.
 - can be perfect on JS in some time.
-- You can reach me  @*manichatakonda@gmail.com*
+- You can reach me  @*manichatakonda@gmail.com*.
 
 <h2> My GitHub Stats </h2>
 
