@@ -4,7 +4,7 @@
 
 
 - Expert in Html & CSS.
-- can be perfect in JS.
+- can be perfect in JS..
 - You can reach me  @*manichatakonda@gmail.com*.
 
 <h2> My GitHub Stats </h2>
