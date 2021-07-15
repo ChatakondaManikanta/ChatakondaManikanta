@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋,Chatakonda Manikanta </h1>
+<h1 align="center">Hello 👋,Chatakonda Manikanta </h1>
 
 
 - Expert in Html & CSS.
