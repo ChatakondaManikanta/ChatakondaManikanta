@@ -3,8 +3,7 @@
 <h1 align="center">Hello 👋,Chatakonda Manikanta </h1>
 
 
-- Expert in Html & CSS.
-- can be perfect in JS.
+
 - You can reach me  @*manichatakonda@gmail.com*.
 
 <h2> My GitHub Stats </h2>
